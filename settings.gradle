@@ -1,0 +1,10 @@
+rootProject.name = 'Taller2'
+
+include  'service-user'
+include  'service-movie'
+include  'service-showtime'
+include  'service-booking'
+include  'service-config'
+include  'service-admin'
+include  'service-gateway'
+include  'service-register'
